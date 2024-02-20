@@ -43,6 +43,12 @@ Add a big lump of salt. Read first before recommending forward. Tell me if you l
 	One can find these scattered among different books, but these pages list and comment them perfectly
 	
 	[https://www.netmeister.org/blog/software-engineering-laws.html] [https://www.laws-of-software.com/]
+	
+* **Why you should be careful with developer metrics by Denis Stebunov**
+
+	[https://teamplify.com/blog/why-you-should-be-careful-with-developer-metrics/]
+	
+	Highly recommended read on KPIs and measuring team performance.
 
 ## Self development
 
