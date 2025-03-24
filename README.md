@@ -4,3 +4,4 @@ Various tips and tricks to move lean and fast in your corporate environment. Rea
 ## What's in here:
 
 * [my reading recommendations](various_reading.md)
+* [Feedback Meetings &trade;](feedback_meetings.md)
