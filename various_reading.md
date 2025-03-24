@@ -29,6 +29,12 @@ Add a big lump of salt. Read first before recommending forward. Tell me if you l
 	(no link)
 	
 	A very old book on how basic systems theory applies to administration and corporate environments in a very very applicable and funny manner.
+	
+* **1 Minute Manager** by Kenneth Blanchard
+   
+    [https://www.amazon.com/One-Minute-Manager-Kenneth-Blanchard/dp/0425093980]
+	
+	How to get stuff done with other people - a down to earth, day-to-day approach on the subject.
 
 ## IT systems development
 
