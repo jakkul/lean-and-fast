@@ -5,4 +5,4 @@ Various tips and tricks to move lean and fast in your corporate environment. Rea
 
 * [my reading recommendations](various_reading.md)
 * [Feedback Meetings &trade;](feedback_meetings.md)
-* [Deceptive Simplicity Principle or Bad Solutions Hypothesis](badsolutions.md)
+* [Deceptive Simplicity Principle&trade; or Bad Solutions Hypothesis&trade;](badsolutions.md)
