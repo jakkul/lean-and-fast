@@ -10,13 +10,13 @@ Add a big lump of salt. Read first before recommending forward. Tell me if you l
 
 	[https://www.amazon.com/Corps-Business-Management-Principles-Marines/dp/0066619793]
 
-	A great book about how much it matters to trust a team and how little various tooling means. 
+	A great book about how much it matters to trust a team and how little various tooling means. A great read on how a team can stay focused and motivated in an environment of complete uncertainty.
 
 * **Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness: Frederic Laloux, Ken Wilber**
 
 	[https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/]
 
-	A great book on how to communicate in organization and how much trust matters. 
+	A great book on how to communicate in organization and how much trust matters. This one teaches on how to build an organization ground-up by example.
 
 * **Peopleware: Productive Projects and Teams by Tom DeMarco and Tim Lister**
 	
@@ -55,6 +55,12 @@ Add a big lump of salt. Read first before recommending forward. Tell me if you l
 	[https://teamplify.com/blog/why-you-should-be-careful-with-developer-metrics/]
 	
 	Highly recommended read on KPIs and measuring team performance.
+  
+* **Escaping the Build Trap: How Effective Product Management Creates Real Value by Melissa Perri**
+
+  [https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X]
+  
+  Scrum is a set of corporate standards to harness the benefits of Agile Manifesto. IMHO this book is an opening to something bigger - effective scaling of an Agile development teams with competent product management. If you want to get inspired at work - read. If you want to get a good "howto be a product manager" also read it.
 
 ## Self development
 
