@@ -61,6 +61,12 @@ Add a big lump of salt. Read first before recommending forward. Tell me if you l
   [https://www.amazon.com/Escaping-Build-Trap-Effective-Management/dp/149197379X]
   
   Scrum is a set of corporate standards to harness the benefits of Agile Manifesto. IMHO this book is an opening to something bigger - effective scaling of an Agile development teams with competent product management. If you want to get inspired at work - read. If you want to get a good "howto be a product manager" also read it.
+  
+* **RSA ANIMATE: Drive: The surprising truth about what motivates us**
+
+  [https://www.youtube.com/watch?v=u6XAPnuFjJc]
+  
+  A great, short clip on what motivates people. Watch this before reading *Reinventing organizations* mentioned above.
 
 ## Self development
 
